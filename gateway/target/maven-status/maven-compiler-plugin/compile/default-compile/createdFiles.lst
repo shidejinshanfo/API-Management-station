@@ -1,0 +1,4 @@
+com\api\gateway\ApiGatewayApplication.class
+com\api\gateway\CustomGlobalFilter$1.class
+com\api\project\provider\DemoService.class
+com\api\gateway\CustomGlobalFilter.class
