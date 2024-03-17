@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "api.client",
+      "type": "com.api.client.sdk.ApiClientConfig",
+      "sourceType": "com.api.client.sdk.ApiClientConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "api.client.access-key",
+      "type": "java.lang.String",
+      "sourceType": "com.api.client.sdk.ApiClientConfig"
+    },
+    {
+      "name": "api.client.secretkey",
+      "type": "java.lang.String",
+      "sourceType": "com.api.client.sdk.ApiClientConfig"
+    }
+  ],
+  "hints": []
+}
